@@ -1,0 +1,1 @@
+livingcost_ms
